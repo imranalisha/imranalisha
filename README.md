@@ -1,5 +1,5 @@
 # 💫 About Me:
-# =========================🙋🏼‍♂️HEY EVERYONE! I AM IMRAN ALI SHAH=========================
+# ===========HEY EVERYONE! I AM IMRAN ALI SHAH===========
 Software Engineering Student | Aspiring Software Engineer | Building projects, learning systems, and improving every day.
 
 

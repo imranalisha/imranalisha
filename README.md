@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <h1 align="center">
-  👋 Hi, I'm Imran Ali Shah
+  Hi, I'm Imran Ali Shah
 </h1>
 
 <p align="center">

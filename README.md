@@ -2,13 +2,22 @@
 <!--                    PROFILE HEADER                         -->
 <!-- ========================================================= -->
 
-<h1 align="center">
-  Hi, I'm Imran Ali Shah
-</h1>
+<!-- ========================================================= -->
+<!--                 IMRAN ALI SHAH - GITHUB                   -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Imran+Ali+Shah;Software+Engineering+Student;Building+UdharDiary+%F0%9F%9A%80;Learning+%26+Building+Real-World+Software" />
-</p>
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║   ░▒▓█  IMRAN ALI SHAH  █▓▒░                                             ║
+║                                                                            ║
+║              SOFTWARE ENGINEERING STUDENT                                ║
+║                                                                            ║
+║        "Building software, one commit at a time."                        ║
+║                                                                            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
 <p align="center">
   <strong>💻 Software Engineering Student • 🚀 Builder • 📚 Lifelong Learner</strong>

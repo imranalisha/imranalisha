@@ -1,3 +1,1 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Imran+Ali+Shah;Software+Engineering+Student;Building+UdharDiary+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" /> </div>
-
-<table> <tr> <td width="45%" valign="top"> <h2>🖥️ imran@github:~$</h2>

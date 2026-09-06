@@ -1,3 +1,36 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Imran+Ali+Shah;Software+Engineering+Student;Building+UdharDiary+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" /> </div>
 
-<img src="https://skillicons.dev/icons?i=dart,javascript,sql" />
+# 💻 Skills & Technologies
+
+<div align="center">
+
+### 🧑‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,dart,javascript" />
+
+### 🧠 Core Computer Science
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1f425f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-1f425f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem%20Solving-1f425f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database%20Fundamentals-1f425f?style=for-the-badge" />
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+
+### 🛠️ Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+### 🎨 UI/UX & Design
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+### 📊 Productivity
+
+<img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+
+</div>

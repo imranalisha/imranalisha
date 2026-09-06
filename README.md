@@ -1,7 +1,7 @@
 
 
 ---
-<div align="left">
+<div align="right">
 
 <img src="./assets/me.png" width="150" />
 
@@ -10,12 +10,6 @@
 © 2026 Imran Ali Shah — Personal GitHub Profile Design  
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Imran+Ali+Shah;Software+Engineering+Student;currently+Building+UdharDiary+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" /> </div>
-
-<div align="left">
-
-<img src="./assets/me.png" width="150" />
-
-</div>
 
 ## 💻 Skills & Technologies
 

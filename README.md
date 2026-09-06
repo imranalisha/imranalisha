@@ -1,4 +1,11 @@
+
+
 ---
+<div align="left">
+
+<img src="./assets/me.png" width="150" />
+
+</div>
 <div align="center">
 © 2026 Imran Ali Shah — Personal GitHub Profile Design  
 </div>

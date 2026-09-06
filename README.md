@@ -57,7 +57,7 @@
 
 </div>
 
-
+---
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=THANKS+FOR+VISITING!;FOLLOW+%26+EXPLORE+MY+REPOS;LIKE+MY+WORK%3F+LEAVE+A+%E2%AD%90" />

@@ -4,6 +4,12 @@
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Imran+Ali+Shah;Software+Engineering+Student;currently+Building+UdharDiary+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" /> </div>
 
+<div align="center">
+
+<img src="./assets/eagle.png" width="850px" />
+
+</div>
+
 ## 💻 Skills & Technologies
 
 <div align="center">
@@ -54,13 +60,6 @@
 <a href="mailto:imranali17305@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</div>
-
-
-<div align="center">
-
-<img src="./assets/eagle.png" width="850px" />
 
 </div>
 

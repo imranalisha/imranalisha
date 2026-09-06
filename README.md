@@ -37,6 +37,4 @@
 
 
 
-<div align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" /> </div>
-
 <div align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>

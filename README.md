@@ -3,7 +3,7 @@
 ---
 <div align="right">
 
-<img src="./assets/me.png" width="15 0" />
+<img src="./assets/me.png" width="150" />
 <div align="center">
 © 2026 Imran Ali Shah — Personal GitHub Profile Design  
 </div>
